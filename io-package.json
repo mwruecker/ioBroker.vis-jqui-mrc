@@ -1,0 +1,78 @@
+{
+    "common": {
+        "name": "vis-jqui-mrc",
+        "version": "0.0.1",
+        "news": {
+            "0.0.1": {
+                "en": "initial release",
+                "de": "Erstveröffentlichung",
+                "ru": "Начальная версия",
+                "pt": "lançamento inicial",
+                "nl": "Eerste uitgave",
+                "fr": "Première version",
+                "it": "Versione iniziale",
+                "es": "Versión inicial",
+                "pl": "Pierwsze wydanie",
+                "zh-cn": "首次出版"
+            }
+        },
+        "title": "jQuery-UI-Stil by mrc",
+        "titleLang": {
+            "en": "jQuery-UI-Stil by mrc",
+            "de": "jQuery-UI-Stil by mrc",
+            "ru": "jQuery-UI-Stil by mrc",
+            "pt": "jQuery-UI-Stil by mrc",
+            "nl": "jQuery-UI-Stil by mrc",
+            "fr": "jQuery-UI-Stil by mrc",
+            "it": "jQuery-UI-Stil by mrc",
+            "es": "jQuery-UI-Stil by mrc",
+            "pl": "jQuery-UI-Stil by mrc",
+            "zh-cn": "jQuery-UI-Stil by mrc"
+        },
+        "desc": {
+            "en": "vis-jqui-mrc",
+            "de": "vis-jqui-mrc",
+            "ru": "vis-jqui-mrc",
+            "pt": "vis-jqui-mrc",
+            "nl": "vis-jqui-mrc",
+            "fr": "vis-jqui-mrc",
+            "it": "vis-jqui-mrc",
+            "es": "vis-jqui-mrc",
+            "pl": "vis-jqui-mrc",
+            "zh-cn": "vis-jqui-mrc"
+        },
+        "authors": [
+            "mwruecker <markus.ruecker@mr-consult.net>"
+        ],
+        "keywords": [
+            "vis",
+            "UI"
+        ],
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "main": "main.js",
+        "icon": "vis-jqui-mrc.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/mwruecker/ioBroker.vis-jqui-mrc/main/admin/vis-jqui-mrc.png",
+        "readme": "https://github.com/mwruecker/ioBroker.vis-jqui-mrc/blob/main/README.md",
+        "loglevel": "info",
+        "restartAdapters": [
+            "vis"
+        ],
+        "onlyWWW": true,
+        "noConfig": true,
+        "singleton": true,
+        "type": "visualization-widgets",
+        "mode": "once",
+        "dependencies": [
+            "vis"
+        ],
+        "globalDependencies": []
+    },
+    "native": {
+        "option1": true,
+        "option2": "42"
+    },
+    "objects": [],
+    "instanceObjects": []
+}
