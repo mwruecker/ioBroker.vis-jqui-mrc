@@ -34,6 +34,7 @@
   "files": [
     "admin/",
     "widgets/",
+    "img/",
     "io-package.json",
     "LICENSE"
   ],
