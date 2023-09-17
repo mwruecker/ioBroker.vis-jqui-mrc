@@ -32,9 +32,8 @@
   },
   "main": "widgets/vis-jqui-mrc.html",
   "files": [
-    "widgets/**/!(tsconfig|tsconfig.*|.eslintrc).json",
-    "widgets/**/*.{html,css,png,svg,jpg,js}",
-    "www/",
+    "admin/",
+    "widgets/",
     "io-package.json",
     "LICENSE"
   ],

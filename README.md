@@ -12,9 +12,6 @@
 
 Describe your project here
 
-## Developer manual
-This section is intended for the developer. It can be deleted later.
-
 ### DISCLAIMER
 
 Please make sure that you consider copyrights and trademarks when you use names or logos of a company and add a disclaimer to your README.
