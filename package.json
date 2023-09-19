@@ -30,7 +30,7 @@
     "mocha": "^10.2.0",
     "chai": "^4.3.8"
   },
-  "main": "widgets/vis-jqui-mrc.html",
+  "main": "widgets/jqui-mrc.html",
   "files": [
     "admin/",
     "widgets/",

@@ -10,8 +10,13 @@ nbproject
 # npm package files
 iobroker.*.tgz
 
+iob_npm.done
+package-lock.json
+
 Thumbs.db
 
 # i18n intermediate files
 admin/i18n/flat.txt
 admin/i18n/*/flat.txt
+
+/.idea

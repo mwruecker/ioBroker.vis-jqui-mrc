@@ -50,21 +50,20 @@
         ],
         "license": "MIT",
         "platform": "Javascript/Node.js",
-        "main": "main.js",
-        "icon": "vis-jqui-mrc.png",
+        "icon": "jqui-mrc.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/mwruecker/ioBroker.vis-jqui-mrc/main/admin/vis-jqui-mrc.png",
+        "extIcon": "https://raw.githubusercontent.com/mwruecker/ioBroker.vis-jqui-mrc/main/admin/jqui-mrc.png",
         "readme": "https://github.com/mwruecker/ioBroker.vis-jqui-mrc/blob/main/README.md",
         "loglevel": "info",
+        "mode": "once",
         "restartAdapters": [
             "vis"
         ],
         "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
         "onlyWWW": true,
-        "noConfig": true,
         "singleton": true,
         "type": "visualization-widgets",
-        "mode": "none",
+        "noConfig": true,        
         "dependencies": [
             "vis"
         ],
